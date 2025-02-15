@@ -26,7 +26,7 @@ Archer Pro (2009?)
 ## Morrisons Kievit
 ![image](https://i.imgur.com/B1KD5SM.png)
 
-## Morrisons Maja
+## Morrisons Maja ("More reasons to shop at Morrisons")
 ![image](https://i.imgur.com/ovltfoB.png)
 
 ## ASDA Romy
