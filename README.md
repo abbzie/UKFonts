@@ -1,6 +1,7 @@
 # UKFonts
 Collection of fonts found in British grocery stores.
 Doesn't account for any minor stores, or stores from other countries such as ALDI or Lidl, only is for the big 3: ASDA, Tesco and Morrisons. Tesco and Morrisons have older versions of their fonts (Tesco and Kievit), which is why they have more.
+Fonts are ripped from their corresponding apps.
 This page is inspired by MARIOFont. [Go check it out!](https://github.com/yell0wsuit/MARIOFont)
 
 INCLUDED FONTS:
