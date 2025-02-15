@@ -17,19 +17,19 @@ Archer Pro (2009?)
 
 # Some Examples
 
-## TescoRegular.ttf
+## Tesco
 ![image](https://i.imgur.com/quwKUt1.png)
 
-## TescoModern.otf
+## Tesco Modern
 ![image](https://i.imgur.com/nrH5Hfi.png)
 
-## MorrisonsKievit.otf
+## Morrisons Kievit
 ![image](https://i.imgur.com/B1KD5SM.png)
 
-## MorrisonsMaja.otf
+## Morrisons Maja=
 ![image](https://i.imgur.com/ovltfoB.png)
 
-## ASDA Romy.otf
+## ASDA Romy
 ![image](https://i.imgur.com/rid3WJG.png)
 
 ## Copyright
